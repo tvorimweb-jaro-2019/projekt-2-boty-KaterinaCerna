@@ -21,3 +21,142 @@ body {
 */
 
 /* ----- zde zacni psat vlastni css ----- */
+
+
+
+.zbozi {
+	background-color: white;
+	background-image: linear-gradient(#06d7c1, #50cc49);
+	font-family: 'Rubik', sans-serif;
+	position: absolute;
+	left: 10%;
+	top: 10%;
+	width: 670px;
+	display: inline-block;
+	border-radius: 2% 2% 2% 2%;
+	box-shadow: 3px 5px 6px #959595;
+	}
+
+.vizual{
+	position: relative;
+	float:left;
+	width: 50%;
+	height: 100%;
+	padding: 30px;
+}
+
+.detaily{
+	background-color: white;
+	width: 50%;
+	border-radius: 0% 2% 2% 0%;
+	float: left;
+	padding: 30px;
+}
+
+.slogan{
+	color: white;
+	font-size: 16px;
+	font-weight: 500;
+	position: absolute;
+	top: 60px;
+}
+
+.bota{
+	position: absolute;
+	left: -80px;
+	top: 140px;
+}
+
+.cenovka{
+	color: white;
+	position: relative;
+	text-align: right;
+	float: right;
+	top: 310px;
+}
+
+.cena{
+	font-size: 28px;
+	font-weight: 500;
+}
+
+.zaruka{
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.nazev{
+	font-size: 20px;
+	font-weight: 500;
+	text-transform: uppercase;
+	margin: 0;
+	}
+
+.produkt{
+	color: #959595;
+	font-size: 14px;
+	font-weight: 400;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	padding: 0;
+}
+
+.popis {
+	font-size: 14px;
+	font-weight: 400;
+	border-bottom-style: solid;
+	border-bottom-color: #06d7c1;
+	border-bottom-width: 2px;
+	margin-bottom: 30px;
+	padding-bottom: 30x;
+}
+
+.parametr{
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+}
+
+li{
+	font-size: 14px;
+	font-weight: 400;
+	display: inline-block;
+	padding: 8px;
+	margin: 0;
+}
+
+.vybrana{
+	color: #f15f42;
+	border-color: #f15f42;
+	border-style: solid;
+	border-radius: 50%;
+	border-width: 2px;
+}
+
+.akce{
+	background-color: #f15f42;
+	width: 50%;
+	border-radius: 4px;
+	text-align: center;
+	padding: 15px 25px;
+	margin-top: 50px;
+}
+
+.tlacitko{
+	color:white;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+	padding: 0;
+	margin: 0;
+}
+
+ul{
+	padding: 0;
+	margin: 0;
+}
+
+li{
+	margin: 0;
+}
